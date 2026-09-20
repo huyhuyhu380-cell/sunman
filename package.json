@@ -1,0 +1,27 @@
+{
+  "name": "sunwin-ai",
+  "version": "5.0.0",
+  "description": "Sunwin AI - 14 thuật toán dự đoán Tài Xỉu + LSTM + Pattern Database self-learning",
+  "main": "sunwin.js",
+  "scripts": {
+    "start": "node sunwin.js",
+    "dev": "node sunwin.js"
+  },
+  "keywords": [
+    "sunwin",
+    "taixiu",
+    "ai",
+    "lstm",
+    "pattern-recognition",
+    "prediction"
+  ],
+  "author": "@cskhgiabao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
